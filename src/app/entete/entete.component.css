@@ -1,0 +1,12 @@
+#entete{
+    border:unset gray 1px;
+    background-color: rgb(231, 231, 168);
+    text-align: center;
+}
+#bd1{
+    color:blueviolet;
+}
+#bd2{
+    text-align: right;
+    color: teal;
+}
