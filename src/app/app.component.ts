@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public titre = 'ProjetAngularAuto';
+  public titreMenu= 'Un Jolie Menu'
 }
